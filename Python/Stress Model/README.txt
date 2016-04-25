@@ -1,0 +1,1 @@
+Tnmn.py, Tnmx.py, tsmn.py and tsmx.py all contain different mathematical correlations for modelling a stress relationship and plots the results directly to .csv files - used over excel due to excel calculation limitations (file size etc).
